@@ -8,8 +8,10 @@ Metas simples e práticas para melhorar seu dia a dia.
 
 Interface limpa e fácil de usar.
 
-Screenshot
-![Screenshot do App](https://github.com/osmarDesenvolvedorDeSoftware/AppGeradorMetas/blob/master/app/src/main/res/drawable/Screenshot_20250128_224344.png)
+## Capturas de Tela
+
+*Descrição da Tela do APP*  
+<img src="https://github.com/osmarDesenvolvedorDeSoftware/AppGeradorMetas/blob/master/app/src/main/res/drawable/Screenshot_20250128_224344.png" alt="Tela Inicial" width="300"/>
 
 Como Usar
 Abra o aplicativo.
